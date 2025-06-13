@@ -23,7 +23,7 @@ A modern, responsive website for a burger restaurant built with React and Vite.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/burger-web-BurgerBurst.git
+git clone https://github.com/22it088-Smit/Burger_Brust.git
 ```
 
 2. Navigate to the project directory:
